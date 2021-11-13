@@ -1,7 +1,7 @@
 opencore-amr-iOS
 ================
 
-iOS port of opencore-amr
+iOS port of opencore-amr (supports for macOS Apple Silicon M1 arch)
 
 Refer to `README` for opencore-amr info which is from original package.
 Run `build_ios_xcode10.sh` to build as current AppStore submission requires Xcode 10.
